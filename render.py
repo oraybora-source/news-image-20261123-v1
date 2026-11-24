@@ -49,7 +49,7 @@ LEADS = [
      "CLAIM", "7", "sea"),
     (2, "ME", "CONFLICT", "STRAIT OF HORMUZ",
      "Iran vows to fight the US blockade",
-     "Tehran says it shot down a US drone; blasts reported in the Strait of Hormuz.",
+     "Tehran said Sunday it shot down a US drone; blasts reported in the Strait of Hormuz.",
      "CLAIM", "1", "strait"),
     (3, "AM", "BUSINESS", "SILICON VALLEY, USA",
      "Nvidia brings back Jensen Huang",
@@ -76,7 +76,7 @@ MIDS = [
      "Prabowo names Amran & Sugiono as VP picks",
      "CONFIRMED", "2", "podium"),
     (11, "AS", "DISASTER", "CIKANDE, INDONESIA",
-     "Factory fire: 24 dead, 30 missing",
+     "Factory fire toll confirmed: 24 dead, 30 missing",
      "CONFIRMED", "24", "factory"),
     (12, "AM", "JUSTICE", "SINALOA, MEXICO",
      "\u2018El Chapo Isidro\u2019 captured in Sinaloa",
@@ -84,7 +84,7 @@ MIDS = [
 ]
 # briefs: (n, region, title, status, lon, lat, dx, dy)
 BRIEFS = [
-    (9, "AS", "Trump calls Putin \u2018my friend\u2019", "REPORTED", 114.1, 22.5, 0, 0),
+    (9, "AS", "China rejects \u2018sphere of influence\u2019", "REPORTED", 116.4, 39.9, -24, -14),
     (13, "AS", "India gives Nepal $1.62bn aid", "CONFIRMED", 77.2, 28.6, -10, 12),
     (14, "AS", "Asia Power Index: India ranks 3rd", "CONFIRMED", 151.2, -33.9, 0, 0),
     (15, "OC", "NZ\u2013India Test drawn at Wellington", "CONFIRMED", 174.8, -41.3, 2, -8),
@@ -97,7 +97,7 @@ BRIEFS = [
     (22, "AS", "Seoul names new FM, spy chief", "CONFIRMED", 127.0, 37.5, -18, -12),
     (23, "ME", "US sanctions Iran shadow banks", "CONFIRMED", 51.4, 35.7, 6, -6),
     (24, "AS", "Indonesia names 6 treason suspects", "REPORTED", 106.8, -6.2, 14, 8),
-    (25, "AM", "Bolsonaro taken to ICU", "CONFIRMED", -47.9, -15.8, 0, 0),
+    (25, "AM", "Bolsonaro stable in ICU; no surgery for now", "CONFIRMED", -47.9, -15.8, 0, 0),
     (26, "AM", "Colombia fuel fund owes 11.4tn pesos", "REPORTED", -74.1, 4.7, 0, 0),
     (27, "AS", "China official sentenced to death", "REPORTED", 116.4, 39.9, 0, 0),
     (28, "AF", "Omo-Agege survives attack; 4 die", "REPORTED", 6.0, 5.5, 0, 0),
@@ -236,6 +236,7 @@ def illu_strait(d, x, y, w, h, big):
     for i in range(5):
         d.line([x + 78 + i * 30, y + h * 0.52 - 4, x + 78 + i * 30, y + h * 0.52 + 4], fill=BRICK, width=2)
     text(d, x + 10, y + 6, big, F_SANS_B(30), fill=INK)
+    text(d, x + 34, y + 16, "DRONE DOWN", F_SANS_B(12), fill=INK)  # O1: label the bare "1"
 
 def illu_chip(d, x, y, w, h, big):
     d.rectangle([x, y, x + w, y + h], fill=(18, 38, 26))           # dark board

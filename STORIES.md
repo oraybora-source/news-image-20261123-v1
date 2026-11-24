@@ -9,7 +9,7 @@ AS Asia, EU Europe, OC Oceania, WORLD global.
 ## Leads (cards 1–3)
 
 1. [AF · CONFLICT · CLAIM] Ukraine claims it sank a Russian warship off Libya — seven naval drones hit the corvette Merkury and the cargo ship Angara, Kyiv says. (Zelenskyy statement, 23 Nov)
-2. [ME · CONFLICT · CLAIM] Iran vows to fight the US blockade — Tehran says it shot down a US drone; blasts reported in the Strait of Hormuz. (Iranian state media / US officials, 23 Nov)
+2. [ME · CONFLICT · CLAIM] Iran vows to fight the US blockade — Tehran said Sunday it shot down a US drone; blasts reported in the Strait of Hormuz. (IRGC claim Sunday 22 Nov; Baghaei vow Monday 23 Nov)
 3. [AM · BUSINESS · CONFIRMED] Nvidia brings back Jensen Huang — shares jump 33%, Wall Street rallies as the CEO returns 11 days after resigning. (Company announcement, 23 Nov)
 
 ## Grid cards (4–8, 10–12)
@@ -25,10 +25,10 @@ AS Asia, EU Europe, OC Oceania, WORLD global.
 
 ## Briefs (9, 13–41)
 
-9. [AS · REPORTED] Trump calls Putin 'my friend' after the Shenzhen summit.
+9. [AS · REPORTED] China rejects 'sphere of influence' after the Shenzhen summit. (Chinese Foreign Ministry briefing Monday, Beijing; MENAFN 23 Nov)
 13. [AS · CONFIRMED] India gives Nepal a $1.62bn aid package.
 14. [AS · CONFIRMED] Asia Power Index 2026: India ranks 3rd (40.5; US 78.9, China 73.6).
-15. [OC · CONFIRMED] NZ–India Test drawn at Wellington (NZ 238/5; India declared 720/9).
+15. [OC · CONFIRMED] NZ–India Test drawn at Wellington (NZ 239/5; India declared 720/9).
 16. [AF · CONFIRMED] Mali beats Belgium 2–1, U17 World Cup.
 17. [AS · CONFIRMED] Sri Lanka A tops Group A, Asia Cup Rising Stars.
 18. [WORLD · CONFIRMED] BepiColombo safe in stable Mercury orbit (ESA update Monday).
@@ -38,7 +38,7 @@ AS Asia, EU Europe, OC Oceania, WORLD global.
 22. [AS · CONFIRMED] Seoul names new foreign minister and spy chief.
 23. [ME · CONFIRMED] US sanctions dozens in Iran shadow banking.
 24. [AS · REPORTED] Indonesia names 6 treason suspects, incl. ex-police chief Listyo Sigit.
-25. [AM · CONFIRMED] Bolsonaro taken to ICU with bowel obstruction.
+25. [AM · CONFIRMED] Bolsonaro stable in ICU; no surgery for now. (DF Star hospital bulletin via O Globo/RIA Novosti, 23 Nov; MercoPress Monday)
 26. [AM · REPORTED] Colombia fuel fund owes Ecopetrol 11.4tn pesos.
 27. [AS · REPORTED] China sentences official to death for leaking secrets.
 28. [AF · REPORTED] Omo-Agege survives alleged assassination attempt, 4 die (Nigeria).
